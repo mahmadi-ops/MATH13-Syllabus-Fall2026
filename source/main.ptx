@@ -7,19 +7,21 @@
   </docinfo>
 
   <article xml:id="math13-syllabus">
-    <!-- TODO: confirm the official course title -->
     <title>MATH 13: Calculus and Analytic Geometry III</title>
-    <subtitle>Fall 2026 Syllabus</subtitle>
+    <subtitle>Fall Quarter 2026 <ndash/> Sections 13-3 and 13-4 <ndash/> Santa Clara University</subtitle>
 
     <xi:include href="./frontmatter.ptx" />
 
     <xi:include href="./course-info.ptx" />
-    <xi:include href="./learning-objectives.ptx" />
     <xi:include href="./materials.ptx" />
     <xi:include href="./grading.ptx" />
+    <xi:include href="./assignments.ptx" />
     <xi:include href="./schedule.ptx" />
-    <xi:include href="./policies.ptx" />
+    <xi:include href="./learning-objectives.ptx" />
     <xi:include href="./resources.ptx" />
+    <xi:include href="./policies.ptx" />
+    <xi:include href="./faq.ptx" />
+    <xi:include href="./university-policies.ptx" />
   </article>
 
 </pretext>

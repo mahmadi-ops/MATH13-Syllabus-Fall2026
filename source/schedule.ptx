@@ -1,33 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="schedule">
-  <title>Tentative Schedule</title>
+  <title>Fall 2026 Calendar and Important Dates</title>
 
   <p>
-    <!-- TODO: replace with the weekly schedule; add or remove rows as needed -->
-    <em>Placeholder:</em> the schedule below is tentative and subject to change.
+    <xref ref="table-calendar"/> lists the key dates for Fall 2026. Week 1
+    begins on Monday, September 21. The three midterm exams and the final exam
+    are labeled <q>Exam</q> in the table.
   </p>
 
-  <table xml:id="table-schedule">
-    <title>Weekly schedule</title>
-    <tabular halign="left" row-headers="no">
-      <col width="15%"/>
-      <col width="55%"/>
-      <col width="30%"/>
+  <table xml:id="table-calendar">
+    <title>Fall 2026 week-by-week calendar</title>
+    <tabular halign="left" top="minor" bottom="minor">
+      <col width="12%"/>
+      <col width="24%"/>
+      <col width="64%"/>
       <row header="yes" bottom="minor">
         <cell>Week</cell>
-        <cell>Topics</cell>
-        <cell>Notes</cell>
+        <cell>Dates</cell>
+        <cell>Event</cell>
       </row>
       <row>
         <cell>1</cell>
-        <cell>[Topics]</cell>
-        <cell>[Notes]</cell>
+        <cell>Sep 21 <ndash/> 25</cell>
+        <cell>Monday, Sep 21 <mdash/> classes begin</cell>
       </row>
       <row>
         <cell>2</cell>
-        <cell>[Topics]</cell>
-        <cell>[Notes]</cell>
+        <cell>Sep 28 <ndash/> Oct 2</cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>3</cell>
+        <cell>Oct 5 <ndash/> 9</cell>
+        <cell>Friday, Oct 9 <mdash/> <alert>Exam #1</alert></cell>
+      </row>
+      <row>
+        <cell>4</cell>
+        <cell>Oct 12 <ndash/> 16</cell>
+        <cell>Monday, Oct 12 <mdash/> Indigenous Peoples' Day; academic holiday, no class</cell>
+      </row>
+      <row>
+        <cell>5</cell>
+        <cell>Oct 19 <ndash/> 23</cell>
+        <cell>Monday, Oct 19 <mdash/> last day to drop classes without a W, by 5 PM</cell>
+      </row>
+      <row>
+        <cell>6</cell>
+        <cell>Oct 26 <ndash/> 30</cell>
+        <cell>Friday, Oct 30 <mdash/> <alert>Exam #2</alert></cell>
+      </row>
+      <row>
+        <cell>7</cell>
+        <cell>Nov 2 <ndash/> 6</cell>
+        <cell></cell>
+      </row>
+      <row>
+        <cell>8</cell>
+        <cell>Nov 9 <ndash/> 13</cell>
+        <cell>Monday, Nov 9 <mdash/> last day to drop classes with a W, by 5 PM</cell>
+      </row>
+      <row>
+        <cell>9</cell>
+        <cell>Nov 16 <ndash/> 20</cell>
+        <cell>Friday, Nov 20 <mdash/> <alert>Exam #3</alert></cell>
+      </row>
+      <row>
+        <cell>10</cell>
+        <cell>Nov 23 <ndash/> 27</cell>
+        <cell>Academic holiday, Thanksgiving week <mdash/> no classes</cell>
+      </row>
+      <row>
+        <cell>11</cell>
+        <cell>Nov 30 <ndash/> Dec 4</cell>
+        <cell>Friday, Dec 4 <mdash/> classes end</cell>
+      </row>
+      <row>
+        <cell>Finals</cell>
+        <cell>Dec 7 <ndash/> 11</cell>
+        <cell><alert>Final Exam</alert> <mdash/> scheduled by the Registrar's Office</cell>
       </row>
     </tabular>
   </table>
+
+  <p>
+    <em>Reminder:</em> assignments are due on Fridays at 11:59 PM, except in
+    the exam weeks (weeks 3, 6, and 9), when they are due on Wednesday at
+    11:59 PM. No late submissions will be accepted.
+  </p>
 </section>

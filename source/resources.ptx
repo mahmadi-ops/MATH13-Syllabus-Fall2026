@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="resources">
-  <title>Accessibility and Student Resources</title>
+<section xml:id="mlc">
+  <title>Mathematics Learning Center (MLC)</title>
 
-  <subsection xml:id="resources-accommodations">
-    <title>Disability Accommodations</title>
-    <p>
-      <!-- TODO: replace with SCU's current Office of Accessible Education statement -->
-      <em>Placeholder:</em> the university's accommodations statement
-      (Office of Accessible Education contact information and process)
-      goes here.
-    </p>
-  </subsection>
+  <p>
+    Free math tutoring, online via Zoom or face to face in Heafey 223, is
+    available through the Mathematics Learning Center. You can set up a
+    one-to-one appointment, sign up for a weekly study group, or come to a
+    power up session to strengthen a specific skill. Students need to register
+    ahead for these services.
+  </p>
 
-  <subsection xml:id="resources-support">
-    <title>Academic and Wellness Resources</title>
-    <p>
-      <!-- TODO -->
-      <em>Placeholder:</em> tutoring center, drop-in help, counseling
-      services, and other campus resources go here.
-    </p>
-  </subsection>
+  <p>
+    For quick last-minute questions, try drop-in tutoring from 6 to 8 PM on
+    Sunday, Tuesday, and Thursday evenings.
+  </p>
 </section>

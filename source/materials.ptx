@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="materials">
-  <title>Textbook and Materials</title>
+  <title>Textbook and Lecture Notes</title>
+
+  <dl>
+    <li>
+      <title>Title</title>
+      <p><title>Thomas' Calculus: Early Transcendentals</title></p>
+    </li>
+    <li>
+      <title>Authors</title>
+      <p>Joel Hass, Christopher Heil, Przemyslaw Bogacki, and Maurice Weir</p>
+    </li>
+    <li>
+      <title>Edition</title>
+      <p>15th edition</p>
+    </li>
+  </dl>
 
   <p>
-    <!-- TODO: replace with textbook, technology, and other required materials -->
-    <em>Placeholder:</em> required textbook (title, author, edition, ISBN),
-    online homework system, calculator policy, and any other materials go here.
+    <alert>The textbook is optional.</alert> You are not required to purchase
+    it. In this course we will be using my lecture notes, which are posted on
+    the
+    <!-- TODO: the "shorttitlelowercase.html" in this address looks like an  -->
+    <!-- unfilled PreTeXt placeholder from the lecture-notes project.       -->
+    <!-- Confirm the real landing page before the quarter starts.           -->
+    <url href="https://mahmadi-ops.github.io/M13-Mehdi/shorttitlelowercase.html">MATH 13 course website</url>.
+  </p>
+
+  <p>
+    The lecture notes cover all of the material we discuss in class, and they
+    are the primary reference for this course. The textbook is a good
+    supplementary resource if you would like additional worked examples and
+    practice problems, but everything you need for the assignments and exams
+    will be covered in the lecture notes and in class.
   </p>
 </section>

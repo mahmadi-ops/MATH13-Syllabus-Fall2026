@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="faq">
+  <title>Frequently Asked Questions</title>
+
+  <introduction>
+  <p>
+      Below are answers to the questions that students ask most often. If your
+      question is not answered here, please ask me in class or during office
+      hours.
+    </p>
+
+  
+  </introduction>
+
+  <subsection xml:id="faq-participation">
+    <title>Is participation in class required?</title>
+    <p>
+      Participation in class is a basic expectation from students, and all of
+      the in-class discussions are testable material.
+    </p>
+  </subsection>
+
+  <subsection xml:id="faq-missed-class">
+    <title>I missed a day of class. What should I do?</title>
+    <p>
+      The lecture notes are posted on the
+      <url href="https://mahmadi-ops.github.io/M13-Mehdi/shorttitlelowercase.html">MATH 13 course website</url>,
+      which you can use to catch up with the class. If you then have any
+      questions at all about the material, please see me in the office hours.
+      Also, remember that we have assignments due every week; check Camino and
+      Gradescope to make sure you are not missing any due dates.
+    </p>
+  </subsection>
+
+  <subsection xml:id="faq-missed-exam">
+    <title>What if I have to miss an exam or am sick for an exam?</title>
+    <p>
+      By department policy, I am unable to give late (or early) exams. If you
+      are too sick for an exam, you must notify me of your illness
+      <em>before the exam</em> and, if possible, provide an official doctor's
+      note excusing you from the exam. If you are an athlete and will be at a
+      team event the day of a midterm, you must meet with me in advance to make
+      arrangements. If your absence is not excused, and you miss an exam, you
+      will receive a 0 on the exam. Note that if you miss all midterms (even
+      with excused absences), you cannot pass the course.
+    </p>
+  </subsection>
+
+  <subsection xml:id="faq-questions-outside-class">
+    <title>How can I ask you questions outside of class?</title>
+    <p>
+      I can answer your questions during my regularly scheduled office hours.
+      Extra appointments can be requested if, for example, all of the office
+      hours during a week conflict with your class schedule. Any extra
+      appointments must be requested <alert>at least 24 hours in advance</alert>.
+      I do my best to accommodate reasonable requests; however, it may not be
+      possible to accommodate all requests, in which case booking an
+      appointment at the
+      <xref ref="mlc" text="title"/> is a great solution.
+    </p>
+  </subsection>
+
+  <subsection xml:id="faq-email-math">
+    <title>Can I email you MATH questions?</title>
+    <p>
+      Please do not email me questions concerning homework or the material in
+      class. Email is the worst medium to convey math, especially calculus, so
+      please come to my office hours to discuss such questions. Suppose that
+      all of the office hours during a week conflict with your class schedule,
+      and that you tried to book an appointment and we did not manage to find a
+      time that suits both our schedules; then you can email me your questions
+      and I will do my best to answer them via email. Again, in such cases
+      (that are rare), booking an appointment at the MLC is a better solution.
+    </p>
+  </subsection>
+
+  <subsection xml:id="faq-performance">
+    <title>How can I discuss my performance in the class with you?</title>
+    <p>
+      Please come to my office hours or request a private appointment to
+      discuss this in person. Please do not email me to discuss your grade or
+      your performance in the class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="faq-study-resources">
+    <title>Are there some resources that you can provide or suggest to study for this course?</title>
+    <p>
+      The answer to this question will really depend on the individual. Having
+      said so, here is a list of some of the resources (in no particular order)
+      that can help you study:
+    </p>
+    <ul>
+      <li>
+        <p>
+          My lecture notes, which are posted on the
+          <url href="https://mahmadi-ops.github.io/M13-Mehdi/shorttitlelowercase.html">MATH 13 course website</url>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Examples solved in class. Note that we solve different examples in
+          class than the ones in the textbook, so that you have more solved
+          problems with detailed solutions for studying outside the class. I
+          recommend that first you try to solve them without looking at the
+          solutions, then you can compare your work with the solutions.
+        </p>
+      </li>
+      <li><p>Examples solved in the body of the (optional) textbook.</p></li>
+      <li><p>The written homework problems. We will have 10 written assignments.</p></li>
+      <li><p>For each topic, I have also suggested several optional problems to solve.</p></li>
+      <li>
+        <p>
+          If you have questions, you can attend our regularly scheduled office
+          hours, book an appointment to meet with me, or you can take advantage
+          of the <xref ref="mlc" text="title"/>.
+        </p>
+      </li>
+    </ul>
+  </subsection>
+</section>

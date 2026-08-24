@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="policies">
-  <title>Course Policies</title>
+<section xml:id="integrity">
+  <title>Preserving the Course's Integrity</title>
 
-  <subsection xml:id="policy-attendance">
-    <title>Attendance and Participation</title>
-    <p>
-      <!-- TODO -->
-      <em>Placeholder:</em> attendance and participation expectations go here.
-    </p>
-  </subsection>
+  <p>By taking this course, students agree to preserve the integrity of the course:</p>
 
-  <subsection xml:id="policy-late-work">
-    <title>Late Work and Missed Exams</title>
-    <p>
-      <!-- TODO -->
-      <em>Placeholder:</em> late-work and missed-exam policies go here.
-    </p>
-  </subsection>
-
-  <subsection xml:id="policy-integrity">
-    <title>Academic Integrity</title>
-    <p>
-      <!-- TODO -->
-      <em>Placeholder:</em> academic integrity statement and expectations
-      about collaboration and AI-tool use go here.
-    </p>
-  </subsection>
+  <ul>
+    <li>
+      <p>
+        You may <alert>not</alert> use artificial intelligence (AI) tools to
+        complete your assignments and assessments in this course.
+      </p>
+    </li>
+    <li>
+      <p>
+        All assignments in this course are individual assignments. Having said
+        so, I would like to encourage you to discuss the course concepts with
+        your classmates and with me. When it is time to take an assessment, I
+        expect you to do the work independently. This is the only way that I
+        will be able to tell what you have learned.
+      </p>
+    </li>
+    <li>
+      <p>
+        Please do not post any of the course material on the internet. If this
+        basic expectation is not followed, it will violate copyright laws, and
+        it will spoil the learning experience of future students of the course.
+      </p>
+    </li>
+    <li>
+      <p>
+        Violation of academic integrity may result in receiving an F in the
+        course and being reported to the Office of Student Life.
+      </p>
+    </li>
+  </ul>
 </section>

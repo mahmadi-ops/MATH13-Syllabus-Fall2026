@@ -2,8 +2,7 @@
 <frontmatter>
   <bibinfo>
     <author>
-      <!-- TODO: replace with your name as you want it displayed -->
-      <personname>M. Ahmadi</personname>
+      <personname>Mehdi Ahmadi</personname>
       <department>Department of Mathematics and Computer Science</department>
       <institution>Santa Clara University</institution>
       <email>mahmadi@scu.edu</email>
@@ -13,8 +12,13 @@
 
   <abstract>
     <p>
-      This is the syllabus for MATH 13, Fall 2026, at Santa Clara University.
-      It is available online in an accessible web format, and also as a
+      This is the syllabus for MATH 13, <term>Calculus and Analytic Geometry
+      III</term>, for Fall Quarter 2026 at Santa Clara University. It applies to
+      both sections of the course, 13-3 and 13-4.
+    </p>
+    <p>
+      You are reading the accessible web version. The same syllabus is also
+      available as a
       <url href="https://mahmadi-ops.github.io/MATH13-Syllabus-Fall2026/math13-syllabus-fall2026.pdf">printable PDF</url>.
     </p>
   </abstract>

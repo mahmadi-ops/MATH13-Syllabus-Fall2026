@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="learning-objectives">
-  <title>Learning Objectives</title>
+<section xml:id="goals">
+  <title>Course Goals</title>
 
-  <p>
-    <!-- TODO: replace with course learning objectives -->
-    <em>Placeholder:</em> upon successful completion of this course, students
-    will be able to <ellipsis/>
-  </p>
+  <subsection xml:id="overall-goals">
+    <title>Overall Goals</title>
+    <p>
+      Use and understand mathematical ideas from multiple and interconnected
+      perspectives, including algebraic, geometric, analytical, and numerical
+      points of view. We will combine geometric visualization with careful
+      analytical reasoning to solve problems and connect our ideas to other
+      disciplines.
+    </p>
+  </subsection>
 
-  <ol>
-    <li><p>[Objective 1]</p></li>
-    <li><p>[Objective 2]</p></li>
-    <li><p>[Objective 3]</p></li>
-  </ol>
+  <subsection xml:id="specific-goals">
+    <title>More Specific Goals</title>
+    <p>
+      In MATH 11, you learned about derivatives. In MATH 12, you learned about
+      integrals. In MATH 13, we will study the following topics and some of
+      their applications.
+    </p>
+    <ol>
+      <li><p>Hyperbolic functions</p></li>
+      <li><p>Infinite series, Taylor series, and binomial series</p></li>
+      <li><p>Parametrization of plane curves</p></li>
+      <li><p>Three-dimensional coordinate systems and vectors</p></li>
+      <li><p>The dot product and the cross product</p></li>
+      <li><p>Lines and planes in space</p></li>
+      <li><p>Conic sections, cylinders, and quadric surfaces</p></li>
+      <li><p>Functions of several variables and their limits</p></li>
+      <li><p>Partial derivatives and the chain rule</p></li>
+      <li><p>Directional derivatives and gradient vectors</p></li>
+      <li><p>Tangent planes and differentials</p></li>
+      <li><p>Extreme values, saddle points, and the Lagrange multipliers method</p></li>
+    </ol>
+  </subsection>
 </section>

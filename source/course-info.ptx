@@ -1,17 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="course-info">
-  <title>Course Information</title>
+  <title>General Course Information</title>
 
-  <p>
-    <!-- TODO: replace with real course details -->
-    <em>Placeholder:</em> meeting days/times, classroom, section number,
-    units, prerequisites, instructor office, office hours, and preferred
-    contact method go here.
-  </p>
+  <introduction>
+  <figure xml:id="fig-topics">
+      <caption>Some of the ideas we will meet in MATH 13 this quarter.</caption>
+      <image source="topics-wordcloud" width="88%">
+        <shortdescription>Word cloud of the main MATH 13 topics</shortdescription>
+        <description>
+          <p>
+            A word cloud of the topics covered in this course: hyperbolic
+            functions, series, Taylor and binomial series, convergence,
+            parametrization of curves, vectors, the dot product and the cross
+            product, lines and planes in space, conic sections, quadric surfaces,
+            limits, the gradient, partial derivatives, the chain rule, tangent
+            planes, differentials, saddle points, and Lagrange multipliers.
+            Every one of these topics is listed in
+            <xref ref="specific-goals" text="title"/>.
+          </p>
+        </description>
+      </image>
+    </figure>
 
-  <ul>
-    <li><p>Lecture: [days, time, location]</p></li>
-    <li><p>Office hours: [days, time, location]</p></li>
-    <li><p>Prerequisites: [prerequisites]</p></li>
-  </ul>
+    <dl>
+      <li>
+        <title>Course</title>
+        <p>MATH 13 <mdash/> Calculus and Analytic Geometry III</p>
+      </li>
+      <li>
+        <title>Instructor</title>
+        <p>Mehdi Ahmadi. I prefer to go by my first name.</p>
+      </li>
+      <li>
+        <title>Office</title>
+        <p>St. Joseph's Hall 111</p>
+      </li>
+      <li>
+        <title>Email</title>
+        <p><email>mahmadi@scu.edu</email></p>
+      </li>
+      <li>
+        <title>Lecture dates</title>
+        <p>
+          September 21 <ndash/> December 4, 2026. The final examination period is
+          December 7 <ndash/> 11, 2026.
+        </p>
+      </li>
+      <li>
+        <title>Prerequisite</title>
+        <p>
+          MATH 12 or equivalent. A grade of C<ndash/> or higher in MATH 12 is
+          strongly recommended before taking MATH 13.
+        </p>
+      </li>
+    </dl>
+
+    <p>
+      This syllabus applies to both sections of MATH 13 listed in
+      <xref ref="table-sections"/>. Please attend the section you are enrolled in.
+    </p>
+
+    <table xml:id="table-sections">
+      <title>Meeting times and rooms for the two sections</title>
+      <tabular halign="left" top="minor" bottom="minor">
+        <col width="22%"/>
+        <col width="18%"/>
+        <col width="30%"/>
+        <col width="30%"/>
+        <row header="yes" bottom="minor">
+          <cell>Section</cell>
+          <cell>Days</cell>
+          <cell>Time</cell>
+          <cell>Room</cell>
+        </row>
+        <row>
+          <cell>MATH 13-3</cell>
+          <cell>M W F</cell>
+          <cell>9:15 <ndash/> 10:20 AM</cell>
+          <cell>Daly Science 303</cell>
+        </row>
+        <row>
+          <cell>MATH 13-4</cell>
+          <cell>M W F</cell>
+          <cell>10:30 <ndash/> 11:35 AM</cell>
+          <cell>Daly Science 303</cell>
+        </row>
+      </tabular>
+    </table>
+
+  
+  </introduction>
+
+  <subsection xml:id="office-hours">
+    <title>Office Hours</title>
+
+    <p>
+      Office hours are held in <alert>Heafey 103</alert> on Mondays,
+      Wednesdays, and Fridays from 2:15 to 3:45 PM. You do not need an
+      appointment to come to office hours; just drop in.
+    </p>
+
+    <table xml:id="table-office-hours">
+      <title>Weekly office hours</title>
+      <tabular halign="left" top="minor" bottom="minor">
+        <col width="30%"/>
+        <col width="40%"/>
+        <col width="30%"/>
+        <row header="yes" bottom="minor">
+          <cell>Day</cell>
+          <cell>Time</cell>
+          <cell>Location</cell>
+        </row>
+        <row>
+          <cell>Monday</cell>
+          <cell>2:15 <ndash/> 3:45 PM</cell>
+          <cell>Heafey 103</cell>
+        </row>
+        <row>
+          <cell>Wednesday</cell>
+          <cell>2:15 <ndash/> 3:45 PM</cell>
+          <cell>Heafey 103</cell>
+        </row>
+        <row>
+          <cell>Friday</cell>
+          <cell>2:15 <ndash/> 3:45 PM</cell>
+          <cell>Heafey 103</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      There are no office hours on Tuesdays or Thursdays. Extra appointments
+      can be requested; see
+      <xref ref="faq-questions-outside-class" text="title"/>.
+    </p>
+  </subsection>
 </section>

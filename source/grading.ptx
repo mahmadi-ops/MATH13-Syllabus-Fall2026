@@ -1,38 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="grading">
-  <title>Grading and Assessment</title>
+  <title>Summary of Course Components</title>
 
-  <p>
-    <!-- TODO: replace with the real grade breakdown -->
-    <em>Placeholder:</em> the course grade is computed as follows.
-  </p>
+  <introduction>
+  <table xml:id="table-components">
+      <title>Course components and the points each one is worth</title>
+      <tabular halign="left" top="minor" bottom="minor">
+        <col width="28%"/>
+        <col width="26%"/>
+        <col width="46%"/>
+        <row header="yes" bottom="minor">
+          <cell>Course component</cell>
+          <cell>Maximum points</cell>
+          <cell>Date</cell>
+        </row>
+        <row>
+          <cell>Exam #1</cell>
+          <cell>20</cell>
+          <cell>Friday, October 9 (week 3)</cell>
+        </row>
+        <row>
+          <cell>Exam #2</cell>
+          <cell>20</cell>
+          <cell>Friday, October 30 (week 6)</cell>
+        </row>
+        <row>
+          <cell>Exam #3</cell>
+          <cell>20</cell>
+          <cell>Friday, November 20 (week 9)</cell>
+        </row>
+        <row>
+          <cell>Final Exam</cell>
+          <cell>30</cell>
+          <cell>December 7 <ndash/> 11, scheduled by the Registrar</cell>
+        </row>
+        <row bottom="minor">
+          <cell>Assignments</cell>
+          <cell>10</cell>
+          <cell>See <xref ref="assignments" text="title"/></cell>
+        </row>
+        <row>
+          <cell>Total</cell>
+          <cell>100</cell>
+          <cell></cell>
+        </row>
+      </tabular>
+    </table>
 
-  <table xml:id="table-grade-breakdown">
-    <title>Grade breakdown</title>
-    <tabular halign="left" row-headers="no">
-      <col width="60%"/>
-      <col width="40%"/>
-      <row header="yes" bottom="minor">
-        <cell>Component</cell>
-        <cell>Weight</cell>
-      </row>
-      <row>
-        <cell>[Homework]</cell>
-        <cell>[20%]</cell>
-      </row>
-      <row>
-        <cell>[Midterm exams]</cell>
-        <cell>[40%]</cell>
-      </row>
-      <row>
-        <cell>[Final exam]</cell>
-        <cell>[40%]</cell>
-      </row>
-    </tabular>
-  </table>
+    <p>
+      The final examination period is December 7 <ndash/> 11. The Registrar's
+      Office schedules the final exam; the date and time for each section will be
+      announced in Camino as soon as they are available.
+    </p>
 
-  <p>
-    <em>Placeholder:</em> letter-grade cutoffs and any policies about dropped
-    scores or make-up work go here.
-  </p>
+  
+  </introduction>
+
+  <subsection xml:id="letter-grades">
+    <title>Letter Grades</title>
+
+    <figure xml:id="fig-grading">
+      <caption>Your course grade comes from three exams, the final exam, and
+      ten written assignments.</caption>
+      <image source="grading" width="62%">
+        <shortdescription>An instructor at a desk marking a stack of papers,
+        the top one graded A</shortdescription>
+        <description>
+          <p>
+            A cartoon of an instructor sitting at a desk behind a stack of
+            marked assignments. The paper on top of the stack has a large
+            letter A circled in red beside it, and a red pen rests on the desk.
+          </p>
+        </description>
+      </image>
+    </figure>
+
+    <p>
+      Your total out of 100 points is converted to a letter grade using the
+      percentage ranges in <xref ref="table-letter-grades"/>.
+    </p>
+
+    <table xml:id="table-letter-grades">
+      <title>Percentage ranges and letter grades</title>
+      <tabular halign="left" top="minor" bottom="minor">
+        <col width="50%"/>
+        <col width="50%"/>
+        <row header="yes" bottom="minor">
+          <cell>Letter grade</cell>
+          <cell>Percentage range</cell>
+        </row>
+        <row><cell>A</cell><cell>94 <ndash/> 100</cell></row>
+        <row><cell>A<ndash/></cell><cell>90 <ndash/> 93</cell></row>
+        <row><cell>B+</cell><cell>87 <ndash/> 89</cell></row>
+        <row><cell>B</cell><cell>83 <ndash/> 86</cell></row>
+        <row><cell>B<ndash/></cell><cell>80 <ndash/> 82</cell></row>
+        <row><cell>C+</cell><cell>77 <ndash/> 79</cell></row>
+        <row><cell>C</cell><cell>73 <ndash/> 76</cell></row>
+        <row><cell>C<ndash/></cell><cell>70 <ndash/> 72</cell></row>
+        <row><cell>D+</cell><cell>67 <ndash/> 69</cell></row>
+        <row><cell>D</cell><cell>63 <ndash/> 66</cell></row>
+        <row><cell>D<ndash/></cell><cell>60 <ndash/> 62</cell></row>
+        <row><cell>F</cell><cell>59 or lower</cell></row>
+      </tabular>
+    </table>
+  </subsection>
 </section>
