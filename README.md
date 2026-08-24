@@ -35,7 +35,7 @@ All content lives in `source/`:
 | `source/resources.ptx` | Mathematics Learning Center |
 | `source/policies.ptx` | Preserving the course's integrity |
 | `source/faq.ptx` | Frequently asked questions |
-| `source/university-policies.ptx` | Required SCU policy statements |
+| `source/university-policies.ptx` | University policy statements |
 
 Anything still to be filled in is marked with a `TODO` comment in the
 source and shows up as "To be added" in the output.
