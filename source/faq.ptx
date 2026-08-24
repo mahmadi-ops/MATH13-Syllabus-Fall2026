@@ -3,7 +3,7 @@
   <title>Frequently Asked Questions</title>
 
   <introduction>
-  <p>
+    <p>
       Below are answers to the questions that students ask most often. If your
       question is not answered here, please ask me in class or during office
       hours.
@@ -90,32 +90,34 @@
       said so, here is a list of some of the resources (in no particular order)
       that can help you study:
     </p>
-    <ul>
-      <li>
-        <p>
-          My lecture notes, which are posted on the
-          <url href="https://mahmadi-ops.github.io/M13-Mehdi/shorttitlelowercase.html">MATH 13 course website</url>.
-        </p>
-      </li>
-      <li>
-        <p>
-          Examples solved in class. Note that we solve different examples in
-          class than the ones in the textbook, so that you have more solved
-          problems with detailed solutions for studying outside the class. I
-          recommend that first you try to solve them without looking at the
-          solutions, then you can compare your work with the solutions.
-        </p>
-      </li>
-      <li><p>Examples solved in the body of the (optional) textbook.</p></li>
-      <li><p>The written homework problems. We will have 10 written assignments.</p></li>
-      <li><p>For each topic, I have also suggested several optional problems to solve.</p></li>
-      <li>
-        <p>
-          If you have questions, you can attend our regularly scheduled office
-          hours, book an appointment to meet with me, or you can take advantage
-          of the <xref ref="mlc" text="title"/>.
-        </p>
-      </li>
-    </ul>
+    <p>
+      <ul>
+        <li>
+          <p>
+            My lecture notes, which are posted on the
+            <url href="https://mahmadi-ops.github.io/M13-Mehdi/shorttitlelowercase.html">MATH 13 course website</url>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Examples solved in class. Note that we solve different examples in
+            class than the ones in the textbook, so that you have more solved
+            problems with detailed solutions for studying outside the class. I
+            recommend that first you try to solve them without looking at the
+            solutions, then you can compare your work with the solutions.
+          </p>
+        </li>
+        <li><p>Examples solved in the body of the (optional) textbook.</p></li>
+        <li><p>The written homework problems. We will have 10 written assignments.</p></li>
+        <li><p>For each topic, I have also suggested several optional problems to solve.</p></li>
+        <li>
+          <p>
+            If you have questions, you can attend our regularly scheduled office
+            hours, book an appointment to meet with me, or you can take advantage
+            of the <xref ref="mlc" text="title"/>.
+          </p>
+        </li>
+      </ul>
+    </p>
   </subsection>
 </section>

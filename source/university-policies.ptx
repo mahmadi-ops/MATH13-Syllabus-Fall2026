@@ -3,7 +3,7 @@
   <title>Required University Policies</title>
 
   <introduction>
-  <p>
+    <p>
       <em>The following policy statements are required on all Santa Clara
       University course syllabi.</em>
     </p>
@@ -68,25 +68,27 @@
       who is not required to report, please contact one of the following SCU
       resources for support:
     </p>
-    <ul>
-      <li>
-        <p>
-          <url href="https://www.scu.edu/wellness/">SCU Wellness Center</url>
-        </p>
-      </li>
-      <li>
-        <p>
-          <url href="https://www.scu.edu/cowell/counseling-and-psychological-services-caps/">Counseling and Psychological Services (CAPS)</url>.
-          A 24/7 support line is also available at 408-554-5220.
-        </p>
-      </li>
-      <li>
-        <p>
-          Any individual (clergy, counselors) acting in a professional capacity
-          for which confidentiality is mandated by law.
-        </p>
-      </li>
-    </ul>
+    <p>
+      <ul>
+        <li>
+          <p>
+            <url href="https://www.scu.edu/wellness/">SCU Wellness Center</url>
+          </p>
+        </li>
+        <li>
+          <p>
+            <url href="https://www.scu.edu/cowell/counseling-and-psychological-services-caps/">Counseling and Psychological Services (CAPS)</url>.
+            A 24/7 support line is also available at 408-554-5220.
+          </p>
+        </li>
+        <li>
+          <p>
+            Any individual (clergy, counselors) acting in a professional capacity
+            for which confidentiality is mandated by law.
+          </p>
+        </li>
+      </ul>
+    </p>
     <p>I am happy to help connect you with any of these resources.</p>
   </subsection>
 

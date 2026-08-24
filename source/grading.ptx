@@ -3,7 +3,7 @@
   <title>Summary of Course Components</title>
 
   <introduction>
-  <table xml:id="table-components">
+    <table xml:id="table-components">
       <title>Course components and the points each one is worth</title>
       <tabular halign="left" top="minor" bottom="minor">
         <col width="28%"/>

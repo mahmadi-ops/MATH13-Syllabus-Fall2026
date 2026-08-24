@@ -10,6 +10,10 @@
     <date>Fall 2026</date>
   </bibinfo>
 
+  <titlepage>
+    <titlepage-items/>
+  </titlepage>
+
   <abstract>
     <p>
       This is the syllabus for MATH 13, <term>Calculus and Analytic Geometry

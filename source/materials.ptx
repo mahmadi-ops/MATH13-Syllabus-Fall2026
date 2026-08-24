@@ -2,20 +2,22 @@
 <section xml:id="materials">
   <title>Textbook and Lecture Notes</title>
 
-  <dl>
-    <li>
-      <title>Title</title>
-      <p><title>Thomas' Calculus: Early Transcendentals</title></p>
-    </li>
-    <li>
-      <title>Authors</title>
-      <p>Joel Hass, Christopher Heil, Przemyslaw Bogacki, and Maurice Weir</p>
-    </li>
-    <li>
-      <title>Edition</title>
-      <p>15th edition</p>
-    </li>
-  </dl>
+  <p>
+    <dl>
+      <li>
+        <title>Title</title>
+        <p><pubtitle>Thomas' Calculus: Early Transcendentals</pubtitle></p>
+      </li>
+      <li>
+        <title>Authors</title>
+        <p>Joel Hass, Christopher Heil, Przemyslaw Bogacki, and Maurice Weir</p>
+      </li>
+      <li>
+        <title>Edition</title>
+        <p>15th edition</p>
+      </li>
+    </dl>
+  </p>
 
   <p>
     <alert>The textbook is optional.</alert> You are not required to purchase

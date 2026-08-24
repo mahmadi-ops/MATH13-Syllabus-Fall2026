@@ -4,34 +4,36 @@
 
   <p>By taking this course, students agree to preserve the integrity of the course:</p>
 
-  <ul>
-    <li>
-      <p>
-        You may <alert>not</alert> use artificial intelligence (AI) tools to
-        complete your assignments and assessments in this course.
-      </p>
-    </li>
-    <li>
-      <p>
-        All assignments in this course are individual assignments. Having said
-        so, I would like to encourage you to discuss the course concepts with
-        your classmates and with me. When it is time to take an assessment, I
-        expect you to do the work independently. This is the only way that I
-        will be able to tell what you have learned.
-      </p>
-    </li>
-    <li>
-      <p>
-        Please do not post any of the course material on the internet. If this
-        basic expectation is not followed, it will violate copyright laws, and
-        it will spoil the learning experience of future students of the course.
-      </p>
-    </li>
-    <li>
-      <p>
-        Violation of academic integrity may result in receiving an F in the
-        course and being reported to the Office of Student Life.
-      </p>
-    </li>
-  </ul>
+  <p>
+    <ul>
+      <li>
+        <p>
+          You may <alert>not</alert> use artificial intelligence (AI) tools to
+          complete your assignments and assessments in this course.
+        </p>
+      </li>
+      <li>
+        <p>
+          All assignments in this course are individual assignments. Having said
+          so, I would like to encourage you to discuss the course concepts with
+          your classmates and with me. When it is time to take an assessment, I
+          expect you to do the work independently. This is the only way that I
+          will be able to tell what you have learned.
+        </p>
+      </li>
+      <li>
+        <p>
+          Please do not post any of the course material on the internet. If this
+          basic expectation is not followed, it will violate copyright laws, and
+          it will spoil the learning experience of future students of the course.
+        </p>
+      </li>
+      <li>
+        <p>
+          Violation of academic integrity may result in receiving an F in the
+          course and being reported to the Office of Student Life.
+        </p>
+      </li>
+    </ul>
+  </p>
 </section>

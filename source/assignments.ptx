@@ -3,50 +3,52 @@
   <title>Assignments</title>
 
   <introduction>
-  <ul>
-      <li>
-        <p>
-          There will be <alert>10 written assignments</alert>, and each
-          assignment is worth <alert>1 point</alert>.
-        </p>
-      </li>
-      <li>
-        <p>Assignments are due on <alert>Fridays at 11:59 PM</alert>.</p>
-      </li>
-      <li>
-        <p>
-          <em>Exception:</em> in the weeks in which we have a midterm exam
-          (weeks 3, 6, and 9), the assignment is due on
-          <alert>Wednesday at 11:59 PM</alert> instead, since the exams are on
-          the Fridays of those weeks. <xref ref="table-assignment-days"/> lists
-          the due day for every assignment.
-        </p>
-      </li>
-      <li>
-        <p>
-          <alert>No late submissions will be accepted</alert> under any
-          circumstances, so please plan ahead and do not wait until the last
-          minute to upload your work.
-        </p>
-      </li>
-      <li>
-        <p>
-          <em>Where to find the problems:</em>
-          <!-- TODO: this was marked "TO BE ADDED" in the source syllabus.     -->
-          <!-- Fill in where the assignment problems are posted and when they  -->
-          <!-- become available, then delete this comment.                     -->
-          <alert>To be added</alert> <mdash/> where the assignment problems are
-          posted, and when they become available.
-        </p>
-      </li>
-      <li>
-        <p>
-          Each assignment may consist of a few topics, which means time
-          management will be very important. I highly recommend that you start
-          working on the problems as soon as they are available.
-        </p>
-      </li>
-    </ul>
+    <p>
+      <ul>
+        <li>
+          <p>
+            There will be <alert>10 written assignments</alert>, and each
+            assignment is worth <alert>1 point</alert>.
+          </p>
+        </li>
+        <li>
+          <p>Assignments are due on <alert>Fridays at 11:59 PM</alert>.</p>
+        </li>
+        <li>
+          <p>
+            <em>Exception:</em> in the weeks in which we have a midterm exam
+            (weeks 3, 6, and 9), the assignment is due on
+            <alert>Wednesday at 11:59 PM</alert> instead, since the exams are on
+            the Fridays of those weeks. <xref ref="table-assignment-days"/> lists
+            the due day for every assignment.
+          </p>
+        </li>
+        <li>
+          <p>
+            <alert>No late submissions will be accepted</alert> under any
+            circumstances, so please plan ahead and do not wait until the last
+            minute to upload your work.
+          </p>
+        </li>
+        <li>
+          <p>
+            <em>Where to find the problems:</em>
+            <!-- TODO: this was marked "TO BE ADDED" in the source syllabus.     -->
+            <!-- Fill in where the assignment problems are posted and when they  -->
+            <!-- become available, then delete this comment.                     -->
+            <alert>To be added</alert> <mdash/> where the assignment problems are
+            posted, and when they become available.
+          </p>
+        </li>
+        <li>
+          <p>
+            Each assignment may consist of a few topics, which means time
+            management will be very important. I highly recommend that you start
+            working on the problems as soon as they are available.
+          </p>
+        </li>
+      </ul>
+    </p>
 
     <table xml:id="table-assignment-days">
       <title>Due day for each assignment</title>
@@ -74,39 +76,41 @@
   <subsection xml:id="gradescope">
     <title>Submitting Your Assignments in Gradescope</title>
 
-    <ul>
-      <li>
-        <p>
-          Assignments will <alert>not</alert> be submitted in Camino or
-          Edfinity. You will submit each assignment in
-          <alert>Gradescope</alert> as a single PDF file. You can access
-          Gradescope through the link in our Camino course.
-        </p>
-      </li>
-      <li>
-        <p>
-          For step-by-step instructions on how to scan and submit your work,
-          please watch
-          <url href="https://www.youtube.com/watch?v=nksyA0s-Geo">this short video on submitting an assignment in Gradescope</url>.
-        </p>
-      </li>
-      <li>
-        <p>
-          <alert>Important:</alert> when you upload your PDF, you
-          <alert>must assign pages to each question</alert>. Assign to each
-          question only the page or pages that contain your work for that
-          question <mdash/> do not assign every page to every question, and do
-          not leave any question unassigned. Work that is not assigned to the
-          corresponding question can be missed by the grader.
-        </p>
-      </li>
-      <li>
-        <p>
-          Make sure that your scan is legible and that the pages are in order
-          before you submit. It is your responsibility to check that your
-          submission was uploaded correctly before the deadline.
-        </p>
-      </li>
-    </ul>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Assignments will <alert>not</alert> be submitted in Camino or
+            Edfinity. You will submit each assignment in
+            <alert>Gradescope</alert> as a single PDF file. You can access
+            Gradescope through the link in our Camino course.
+          </p>
+        </li>
+        <li>
+          <p>
+            For step-by-step instructions on how to scan and submit your work,
+            please watch
+            <url href="https://www.youtube.com/watch?v=nksyA0s-Geo">this short video on submitting an assignment in Gradescope</url>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <alert>Important:</alert> when you upload your PDF, you
+            <alert>must assign pages to each question</alert>. Assign to each
+            question only the page or pages that contain your work for that
+            question <mdash/> do not assign every page to every question, and do
+            not leave any question unassigned. Work that is not assigned to the
+            corresponding question can be missed by the grader.
+          </p>
+        </li>
+        <li>
+          <p>
+            Make sure that your scan is legible and that the pages are in order
+            before you submit. It is your responsibility to check that your
+            submission was uploaded correctly before the deadline.
+          </p>
+        </li>
+      </ul>
+    </p>
   </subsection>
 </section>

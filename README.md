@@ -24,19 +24,41 @@ All content lives in `source/`:
 
 | File | Section |
 | --- | --- |
-| `source/main.ptx` | Title, subtitle, and overall structure |
-| `source/frontmatter.ptx` | Instructor info and the abstract (with PDF link) |
-| `source/course-info.ptx` | Meeting times, office hours, prerequisites |
-| `source/learning-objectives.ptx` | Learning objectives |
-| `source/materials.ptx` | Textbook and materials |
-| `source/grading.ptx` | Grade breakdown and grading policies |
-| `source/schedule.ptx` | Tentative weekly schedule |
-| `source/policies.ptx` | Attendance, late work, academic integrity |
-| `source/resources.ptx` | Accommodations and campus resources |
+| `source/main.ptx` | Title, subtitle, and the order of the sections |
+| `source/frontmatter.ptx` | Author block and the abstract (with the PDF link) |
+| `source/course-info.ptx` | Course details, the two sections, office hours |
+| `source/materials.ptx` | Textbook and lecture notes |
+| `source/grading.ptx` | Course components and letter grades |
+| `source/assignments.ptx` | Assignments and Gradescope submission |
+| `source/schedule.ptx` | Fall 2026 calendar and important dates |
+| `source/learning-objectives.ptx` | Overall goals and the 12 specific topics |
+| `source/resources.ptx` | Mathematics Learning Center |
+| `source/policies.ptx` | Preserving the course's integrity |
+| `source/faq.ptx` | Frequently asked questions |
+| `source/university-policies.ptx` | Required SCU policy statements |
 
-Placeholders are marked with `TODO` comments and `[bracketed]` text.
+Anything still to be filled in is marked with a `TODO` comment in the
+source and shows up as "To be added" in the output.
+
 Styling and output options (theme, chunking, PDF options) are in
 `publication/publication.ptx`; build targets are in `project.ptx`.
+
+## Figures
+
+Illustrations live in `assets/`. PreTeXt resolves an `<image>` whose `@source`
+has no file extension to the `.svg` for the website and to the `.pdf` for the
+printable version, so each figure needs **both** files. `scripts/build-figures.sh`
+renders the PDF twin of every SVG with `rsvg-convert`; the deploy workflow runs
+it before each build, so the two never drift apart.
+
+To swap in a picture of your own, either
+
+- replace `assets/<name>.svg` and re-run `./scripts/build-figures.sh`, or
+- drop in a `.png`/`.jpg` and give the `@source` the full filename, e.g.
+  `<image source="my-picture.png">`.
+
+Every `<image>` carries a `<shortdescription>` (the alt text) and a longer
+`<description>`. Please keep both accurate when you change a figure.
 
 ## Building locally (optional)
 

@@ -26,6 +26,9 @@ jobs:
       - name: Install pinned PreTeXt CLI
         run: pip install --break-system-packages -r requirements.txt || pip install -r requirements.txt
 
+      - name: Render figure PDFs from the SVG sources
+        run: ./scripts/build-figures.sh
+
       - name: Build HTML
         run: pretext build web
 

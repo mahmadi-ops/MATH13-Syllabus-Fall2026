@@ -3,7 +3,7 @@
   <title>General Course Information</title>
 
   <introduction>
-  <figure xml:id="fig-topics">
+    <figure xml:id="fig-topics">
       <caption>Some of the ideas we will meet in MATH 13 this quarter.</caption>
       <image source="topics-wordcloud" width="88%">
         <shortdescription>Word cloud of the main MATH 13 topics</shortdescription>
@@ -22,38 +22,40 @@
       </image>
     </figure>
 
-    <dl>
-      <li>
-        <title>Course</title>
-        <p>MATH 13 <mdash/> Calculus and Analytic Geometry III</p>
-      </li>
-      <li>
-        <title>Instructor</title>
-        <p>Mehdi Ahmadi. I prefer to go by my first name.</p>
-      </li>
-      <li>
-        <title>Office</title>
-        <p>St. Joseph's Hall 111</p>
-      </li>
-      <li>
-        <title>Email</title>
-        <p><email>mahmadi@scu.edu</email></p>
-      </li>
-      <li>
-        <title>Lecture dates</title>
-        <p>
-          September 21 <ndash/> December 4, 2026. The final examination period is
-          December 7 <ndash/> 11, 2026.
-        </p>
-      </li>
-      <li>
-        <title>Prerequisite</title>
-        <p>
-          MATH 12 or equivalent. A grade of C<ndash/> or higher in MATH 12 is
-          strongly recommended before taking MATH 13.
-        </p>
-      </li>
-    </dl>
+    <p>
+      <dl>
+        <li>
+          <title>Course</title>
+          <p>MATH 13 <mdash/> Calculus and Analytic Geometry III</p>
+        </li>
+        <li>
+          <title>Instructor</title>
+          <p>Mehdi Ahmadi. I prefer to go by my first name.</p>
+        </li>
+        <li>
+          <title>Office</title>
+          <p>St. Joseph's Hall 111</p>
+        </li>
+        <li>
+          <title>Email</title>
+          <p><email>mahmadi@scu.edu</email></p>
+        </li>
+        <li>
+          <title>Lecture dates</title>
+          <p>
+            September 21 <ndash/> December 4, 2026. The final examination period is
+            December 7 <ndash/> 11, 2026.
+          </p>
+        </li>
+        <li>
+          <title>Prerequisite</title>
+          <p>
+            MATH 12 or equivalent. A grade of C<ndash/> or higher in MATH 12 is
+            strongly recommended before taking MATH 13.
+          </p>
+        </li>
+      </dl>
+    </p>
 
     <p>
       This syllabus applies to both sections of MATH 13 listed in
