@@ -62,14 +62,16 @@
     <figure xml:id="fig-grading">
       <caption>Your course grade comes from three exams, the final exam, and
       ten written assignments.</caption>
-      <image source="grading" width="62%">
-        <shortdescription>An instructor at a desk marking a stack of papers,
-        the top one graded A</shortdescription>
+      <image source="grading.png" width="84%">
+        <shortdescription>An instructor at a desk grading papers, holding up one marked with a circled A</shortdescription>
         <description>
           <p>
-            A cartoon of an instructor sitting at a desk behind a stack of
-            marked assignments. The paper on top of the stack has a large
-            letter A circled in red beside it, and a red pen rests on the desk.
+            A cartoon of an instructor sitting at a desk, smiling and holding
+            up a graded paper with a large letter A circled in red. A tall
+            stack of assignments with colored sticky-note tabs sits on the left
+            of the desk, and two more papers marked with a circled A lie in
+            front of him. He has a red pen in his other hand, and there is a
+            mug of pens, a stack of books, and a potted plant on the desk.
           </p>
         </description>
       </image>
