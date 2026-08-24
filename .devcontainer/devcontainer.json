@@ -1,0 +1,29 @@
+{
+  // Same image the deploy workflow uses, so a local build matches CI byte for byte.
+  // It ships TeX Live, so `pretext build print` works in here too.
+  "name": "MATH 13 Syllabus (PreTeXt)",
+  "image": "pretextbook/pretext:latest",
+
+  // Pin the CLI to requirements.txt, mirroring the "Install pinned PreTeXt CLI" step.
+  "postCreateCommand": "pip install --break-system-packages -r requirements.txt || pip install -r requirements.txt",
+
+  // `pretext view` serves on 8128 by default.
+  "forwardPorts": [8128],
+  "portsAttributes": {
+    "8128": { "label": "PreTeXt preview", "onAutoForward": "openBrowser" }
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "oscarlevin.pretext-tools",
+        "redhat.vscode-xml"
+      ],
+      "settings": {
+        "files.associations": { "*.ptx": "xml" },
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+      }
+    }
+  }
+}
