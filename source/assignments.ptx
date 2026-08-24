@@ -76,6 +76,26 @@
   <subsection xml:id="gradescope">
     <title>Submitting Your Assignments in Gradescope</title>
 
+    <figure xml:id="fig-gradescope">
+      <caption>Write your solutions by hand, scan them into a single PDF, then
+      assign pages to questions in Gradescope.</caption>
+      <image source="gradescope-submission.png" width="88%">
+        <shortdescription>Handwritten pages are scanned with a phone into a single PDF, then submitted</shortdescription>
+        <description>
+          <p>
+            A three-step cartoon. On the left, a stack of handwritten pages
+            covered in sketches of axes, surfaces, and integrals. An arrow
+            points to the middle, where a phone scans one of the pages, a bright
+            line sweeping down the screen. A second arrow points to the right,
+            where the scanned pages have become a tidy stack of PDF pages, each
+            one tagged with a colored marker showing that it has been assigned
+            to a question. A student gives a thumbs up beside a large green
+            check mark.
+          </p>
+        </description>
+      </image>
+    </figure>
+
     <p>
       <ul>
         <li>

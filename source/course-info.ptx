@@ -4,18 +4,22 @@
 
   <introduction>
     <figure xml:id="fig-topics">
-      <caption>Some of the ideas we will meet in MATH 13 this quarter.</caption>
-      <image source="topics-wordcloud" width="88%">
-        <shortdescription>Word cloud of the main MATH 13 topics</shortdescription>
+      <caption>A tour of MATH 13: space curves, surfaces, and the tangent
+      planes and gradients we will use to study them.</caption>
+      <image source="calculus-adventure.png" width="92%">
+        <shortdescription>A hiker crossing floating islands built from the curves and surfaces studied in MATH 13</shortdescription>
         <description>
           <p>
-            A word cloud of the topics covered in this course: hyperbolic
-            functions, series, Taylor and binomial series, convergence,
-            parametrization of curves, vectors, the dot product and the cross
-            product, lines and planes in space, conic sections, quadric surfaces,
-            limits, the gradient, partial derivatives, the chain rule, tangent
-            planes, differentials, saddle points, and Lagrange multipliers.
-            Every one of these topics is listed in
+            A colorful cartoon landscape of floating islands, each one built
+            from something we study this quarter. On the left island, a looping
+            space curve winds around a set of three-dimensional coordinate
+            axes, and a rainbow-colored saddle surface rises out of the grass.
+            A hiker with a backpack strides along the path between the islands.
+            On the right island, a rounded hill is capped by a flat tangent
+            plane, with a gold arrow rising from the point of tangency and blue
+            arrows fanning out across the plane. Below the hill, a line of
+            beads descends the slope toward a pool of ripples, suggesting a
+            path downhill to a minimum. Every one of these ideas is listed in
             <xref ref="specific-goals" text="title"/>.
           </p>
         </description>
@@ -101,6 +105,24 @@
       Wednesdays, and Fridays from 2:15 to 3:45 PM. You do not need an
       appointment to come to office hours; just drop in.
     </p>
+
+    <figure xml:id="fig-office-hours">
+      <caption>Office hours are for questions, worked examples, and thinking
+      out loud together.</caption>
+      <image source="office-hours-discussion.png" width="80%">
+        <shortdescription>An instructor at a whiteboard explaining a surface to three students around a table</shortdescription>
+        <description>
+          <p>
+            A cartoon of an instructor standing at a whiteboard, pointing with
+            a marker at a sketch of a surface in three-dimensional coordinate
+            axes with a red arrow rising from a point on it. Three students sit
+            around a round table in front of the whiteboard, taking notes in
+            spiral notebooks, with a laptop, a mug, books, and a potted plant
+            on the table. Everyone looks engaged and is talking.
+          </p>
+        </description>
+      </image>
+    </figure>
 
     <table xml:id="table-office-hours">
       <title>Weekly office hours</title>
