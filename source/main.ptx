@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <docinfo>
+    <directories external="../assets"/>
+    <document-id>ahmadi-math13-fall2026</document-id>
+  </docinfo>
+
+  <article xml:id="math13-syllabus">
+    <!-- TODO: confirm the official course title -->
+    <title>MATH 13: Calculus and Analytic Geometry III</title>
+    <subtitle>Fall 2026 Syllabus</subtitle>
+
+    <xi:include href="./frontmatter.ptx" />
+
+    <xi:include href="./course-info.ptx" />
+    <xi:include href="./learning-objectives.ptx" />
+    <xi:include href="./materials.ptx" />
+    <xi:include href="./grading.ptx" />
+    <xi:include href="./schedule.ptx" />
+    <xi:include href="./policies.ptx" />
+    <xi:include href="./resources.ptx" />
+  </article>
+
+</pretext>

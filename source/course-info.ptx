@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="course-info">
+  <title>Course Information</title>
+
+  <p>
+    <!-- TODO: replace with real course details -->
+    <em>Placeholder:</em> meeting days/times, classroom, section number,
+    units, prerequisites, instructor office, office hours, and preferred
+    contact method go here.
+  </p>
+
+  <ul>
+    <li><p>Lecture: [days, time, location]</p></li>
+    <li><p>Office hours: [days, time, location]</p></li>
+    <li><p>Prerequisites: [prerequisites]</p></li>
+  </ul>
+</section>

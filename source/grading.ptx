@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="grading">
+  <title>Grading and Assessment</title>
+
+  <p>
+    <!-- TODO: replace with the real grade breakdown -->
+    <em>Placeholder:</em> the course grade is computed as follows.
+  </p>
+
+  <table xml:id="table-grade-breakdown">
+    <title>Grade breakdown</title>
+    <tabular halign="left" row-headers="no">
+      <col width="60%"/>
+      <col width="40%"/>
+      <row header="yes" bottom="minor">
+        <cell>Component</cell>
+        <cell>Weight</cell>
+      </row>
+      <row>
+        <cell>[Homework]</cell>
+        <cell>[20%]</cell>
+      </row>
+      <row>
+        <cell>[Midterm exams]</cell>
+        <cell>[40%]</cell>
+      </row>
+      <row>
+        <cell>[Final exam]</cell>
+        <cell>[40%]</cell>
+      </row>
+    </tabular>
+  </table>
+
+  <p>
+    <em>Placeholder:</em> letter-grade cutoffs and any policies about dropped
+    scores or make-up work go here.
+  </p>
+</section>

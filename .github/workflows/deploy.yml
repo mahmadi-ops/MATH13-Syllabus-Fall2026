@@ -1,0 +1,55 @@
+name: Build and deploy syllabus
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Official PreTeXt image: includes TeX Live, so the PDF target builds too.
+    container: pretextbook/pretext:latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Install pinned PreTeXt CLI
+        run: pip install --break-system-packages -r requirements.txt || pip install -r requirements.txt
+
+      - name: Build HTML
+        run: pretext build web
+
+      - name: Build PDF
+        run: pretext build print
+
+      - name: Assemble site (HTML at root, PDF alongside)
+        run: |
+          mkdir -p site
+          cp -r output/web/. site/
+          cp output/print/math13-syllabus-fall2026.pdf site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,8 @@
+# PreTeXt build products
+output/
+generated-assets/
+.cache/
+logs/
+
+# OS cruft
+.DS_Store

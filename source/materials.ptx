@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="materials">
+  <title>Textbook and Materials</title>
+
+  <p>
+    <!-- TODO: replace with textbook, technology, and other required materials -->
+    <em>Placeholder:</em> required textbook (title, author, edition, ISBN),
+    online homework system, calculator policy, and any other materials go here.
+  </p>
+</section>

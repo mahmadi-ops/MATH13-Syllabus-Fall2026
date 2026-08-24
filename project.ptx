@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Project manifest for the MATH 13 Fall 2026 syllabus.                  -->
+<!-- The `web` target builds the accessible HTML site; `print` builds the  -->
+<!-- PDF. See https://pretextbook.org/doc/guide/html/processing-CLI.html   -->
+<project ptx-version="2">
+  <targets>
+    <target name="web" format="html" />
+    <target name="print" format="pdf" output-filename="math13-syllabus-fall2026.pdf" />
+  </targets>
+</project>

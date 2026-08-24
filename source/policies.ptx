@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="policies">
+  <title>Course Policies</title>
+
+  <subsection xml:id="policy-attendance">
+    <title>Attendance and Participation</title>
+    <p>
+      <!-- TODO -->
+      <em>Placeholder:</em> attendance and participation expectations go here.
+    </p>
+  </subsection>
+
+  <subsection xml:id="policy-late-work">
+    <title>Late Work and Missed Exams</title>
+    <p>
+      <!-- TODO -->
+      <em>Placeholder:</em> late-work and missed-exam policies go here.
+    </p>
+  </subsection>
+
+  <subsection xml:id="policy-integrity">
+    <title>Academic Integrity</title>
+    <p>
+      <!-- TODO -->
+      <em>Placeholder:</em> academic integrity statement and expectations
+      about collaboration and AI-tool use go here.
+    </p>
+  </subsection>
+</section>

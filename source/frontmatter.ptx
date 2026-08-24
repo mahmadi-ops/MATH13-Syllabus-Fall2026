@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<frontmatter>
+  <bibinfo>
+    <author>
+      <!-- TODO: replace with your name as you want it displayed -->
+      <personname>M. Ahmadi</personname>
+      <department>Department of Mathematics and Computer Science</department>
+      <institution>Santa Clara University</institution>
+      <email>mahmadi@scu.edu</email>
+    </author>
+    <date>Fall 2026</date>
+  </bibinfo>
+
+  <abstract>
+    <p>
+      This is the syllabus for MATH 13, Fall 2026, at Santa Clara University.
+      It is available online in an accessible web format, and also as a
+      <url href="https://mahmadi-ops.github.io/MATH13-Syllabus-Fall2026/math13-syllabus-fall2026.pdf">printable PDF</url>.
+    </p>
+  </abstract>
+</frontmatter>

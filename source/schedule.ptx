@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="schedule">
+  <title>Tentative Schedule</title>
+
+  <p>
+    <!-- TODO: replace with the weekly schedule; add or remove rows as needed -->
+    <em>Placeholder:</em> the schedule below is tentative and subject to change.
+  </p>
+
+  <table xml:id="table-schedule">
+    <title>Weekly schedule</title>
+    <tabular halign="left" row-headers="no">
+      <col width="15%"/>
+      <col width="55%"/>
+      <col width="30%"/>
+      <row header="yes" bottom="minor">
+        <cell>Week</cell>
+        <cell>Topics</cell>
+        <cell>Notes</cell>
+      </row>
+      <row>
+        <cell>1</cell>
+        <cell>[Topics]</cell>
+        <cell>[Notes]</cell>
+      </row>
+      <row>
+        <cell>2</cell>
+        <cell>[Topics]</cell>
+        <cell>[Notes]</cell>
+      </row>
+    </tabular>
+  </table>
+</section>

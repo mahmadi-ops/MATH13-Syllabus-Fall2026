@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="learning-objectives">
+  <title>Learning Objectives</title>
+
+  <p>
+    <!-- TODO: replace with course learning objectives -->
+    <em>Placeholder:</em> upon successful completion of this course, students
+    will be able to <ellipsis/>
+  </p>
+
+  <ol>
+    <li><p>[Objective 1]</p></li>
+    <li><p>[Objective 2]</p></li>
+    <li><p>[Objective 3]</p></li>
+  </ol>
+</section>
