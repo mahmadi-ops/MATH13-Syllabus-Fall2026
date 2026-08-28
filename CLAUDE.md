@@ -15,8 +15,11 @@ instructor asks for something else.
 logs every piece of course material as it is posted. It is the companion of
 the course-notes repo `mahmadi-ops/M13-Mehdi` (published at
 https://mahmadi-ops.github.io/M13-Mehdi/), whose `CLAUDE.md` defines the
-posting workflow (`/post-notes`, `/post-assignment`, `/release-solutions`).
-Whenever material is posted there, add a row **here**.
+posting workflow (`/post-notes`, `/post-assignment`, `/release-solutions`)
+and the click-to-post Posting Desk panel (see "The Posting Desk" in that
+`CLAUDE.md`). Whenever material is posted there, add a row **here**. For
+panel-initiated postings the instructor has authorized committing directly
+to `main`; everything else follows the session's normal branch rules.
 
 Rules for adding a row:
 
