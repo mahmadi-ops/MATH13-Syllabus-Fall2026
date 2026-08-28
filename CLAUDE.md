@@ -25,7 +25,10 @@ Rules for adding a row:
 
 1. Insert the new `<row>` directly below the `NEW ROWS GO DIRECTLY BELOW`
    comment in `source/updates.ptx`, so the table stays newest-first. Never
-   delete or reorder existing rows. Row templates are inside that comment.
+   delete or reorder existing rows, with one exception: when an item is
+   **unposted** via the notes repo's unposting workflows, delete that
+   item's row (only that row; the rest keep their order). Row templates
+   are inside that comment.
 2. **Date posted**: today's date, formatted like `Sep 25, 2026`.
 3. **Item**: a `<url>` link to the exact page of the notes site
    (`https://mahmadi-ops.github.io/M13-Mehdi/<xml-id-of-section>.html` —
