@@ -1,0 +1,66 @@
+name: Posting Desk row
+# Dispatched by the instructor's Posting Desk panel. Adds or removes one
+# row of the posted-materials table, commits to main, and kicks the site
+# build (a GITHUB_TOKEN push does not trigger the push workflow itself).
+on:
+  workflow_dispatch:
+    inputs:
+      op:
+        description: "add or remove"
+        required: true
+        type: choice
+        options: [add, remove]
+      label:
+        description: "link label, e.g. 'Notes: Conic Sections'"
+        required: true
+        type: string
+      url:
+        description: "link target (required for add)"
+        required: false
+        type: string
+      due:
+        description: "due-date cell text (assignments only)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: posting-desk-row
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    env:
+      DESK_OP: ${{ inputs.op }}
+      DESK_LABEL: ${{ inputs.label }}
+      DESK_URL: ${{ inputs.url }}
+      DESK_DUE: ${{ inputs.due }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply the row change
+        run: |
+          if [ "$DESK_OP" = "add" ]; then
+            python3 scripts/desk_row.py add "$DESK_LABEL" "$DESK_URL" "$DESK_DUE"
+          else
+            python3 scripts/desk_row.py remove "$DESK_LABEL"
+          fi
+
+      - name: Commit and rebuild the site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "posting-desk"
+          git config user.email "posting-desk@users.noreply.github.com"
+          git add source
+          if git diff --cached --quiet; then
+            echo "Table already in the requested state; nothing to commit."
+          else
+            git commit -m "Desk: $DESK_OP row '$DESK_LABEL'"
+            git push
+            gh workflow run deploy.yml --ref main
+          fi
