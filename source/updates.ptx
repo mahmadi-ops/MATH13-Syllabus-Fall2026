@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="posted-materials">
+  <title>Posted Notes and Assignments</title>
+
+  <p>
+    Every time new material is posted <mdash/> class notes, an assignment, or
+    the solutions to an assignment <mdash/> a row is added to the top of
+    <xref ref="table-posted-materials"/> with a link to it and the date it was
+    posted. Assignment rows also show the due date. Solutions appear in the
+    <url href="https://mahmadi-ops.github.io/M13-Mehdi/">course notes</url>
+    only after the due date has passed.
+  </p>
+
+  <table xml:id="table-posted-materials">
+    <title>Posted materials, newest first</title>
+    <tabular halign="left" top="minor" bottom="minor">
+      <col width="22%"/>
+      <col width="53%"/>
+      <col width="25%"/>
+      <row header="yes" bottom="minor">
+        <cell>Date posted</cell>
+        <cell>Item</cell>
+        <cell>Due date</cell>
+      </row>
+      <!-- NEW ROWS GO DIRECTLY BELOW THIS COMMENT, newest first.
+
+           Row templates (link to the exact page of the notes site;
+           use <mdash/> in the due-date cell for anything without one):
+
+        <row>
+          <cell>Sep 25, 2026</cell>
+          <cell><url href="https://mahmadi-ops.github.io/M13-Mehdi/PAGE.html">Notes: TOPIC</url></cell>
+          <cell><mdash/></cell>
+        </row>
+        <row>
+          <cell>Sep 25, 2026</cell>
+          <cell><url href="https://mahmadi-ops.github.io/M13-Mehdi/PAGE.html">Assignment N</url></cell>
+          <cell>Fri Oct 2, 11:59 PM</cell>
+        </row>
+        <row>
+          <cell>Oct 3, 2026</cell>
+          <cell><url href="https://mahmadi-ops.github.io/M13-Mehdi/PAGE.html">Solutions: Assignment N</url></cell>
+          <cell>was due Oct 2</cell>
+        </row>
+      -->
+      <row>
+        <cell>Aug 28, 2026</cell>
+        <cell><url href="https://mahmadi-ops.github.io/M13-Mehdi/">Course notes site</url></cell>
+        <cell><mdash/></cell>
+      </row>
+    </tabular>
+  </table>
+</section>
