@@ -20,6 +20,7 @@
     <xi:include href="./learning-objectives.ptx" />
     <xi:include href="./resources.ptx" />
     <xi:include href="./policies.ptx" />
+    <xi:include href="./ai-policy.ptx" />
     <xi:include href="./faq.ptx" />
     <xi:include href="./university-policies.ptx" />
     <xi:include href="./updates.ptx" />

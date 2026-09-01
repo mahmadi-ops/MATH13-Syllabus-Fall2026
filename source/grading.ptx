@@ -56,6 +56,123 @@
   
   </introduction>
 
+  <subsection xml:id="exam-topics">
+    <title>Tentative List of Topics for the Exams</title>
+
+    <p>
+      The lists below are <alert>tentative</alert>. They show the topics I
+      expect each midterm exam to cover, and I will confirm the exact coverage
+      in class before each exam. Every topic links to its section in the
+      skeletal notes, and each list matches the review problem set for that
+      exam: the leftover problems on those topics, collected for review.
+    </p>
+
+    <p>
+      <em>Exam #1</em> (Friday, October 9) <mdash/> see
+      <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-1.html">Review Problems #1</url>:
+    </p>
+
+    <p>
+      <ul>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/skel-chapter-hyperbolic-functions.html">Hyperbolic Functions</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-series-infinite.html">Infinite Series</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-series-taylor.html">Taylor and Maclaurin Series</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-series-taylor-convergence.html">Taylor Series and Its Convergence</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-series-binomial.html">The Binomial Series and Applications of Taylor Series</url></p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      <em>Exam #2</em> (Friday, October 30) <mdash/> see
+      <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-2.html">Review Problems #2</url>:
+    </p>
+
+    <p>
+      <ul>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-3d-coordinates.html">Three-Dimensional Coordinate Systems</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-vectors.html">Vectors</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-dot-product.html">The Dot Product</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-cross-product.html">The Cross Product</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-parametrization.html">Parametrization of Plane Curves</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-lines-planes.html">Lines and Planes in Space</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-conics.html">Conic Sections</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-geom-quadric-surfaces.html">Quadric Surfaces</url></p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      <em>Exam #3</em> (Friday, November 20) <mdash/> see
+      <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-3.html">Review Problems #3</url>:
+    </p>
+
+    <p>
+      <ul>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-functions.html">Functions of Several Variables</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-limits.html">Limits and Continuity in Higher Dimensions</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-partial-derivatives.html">Partial Derivatives</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-chain-rule.html">The Chain Rule</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-directional-derivatives.html">Directional Derivatives and Gradient Vectors</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-tangent-planes.html">Tangent Planes and Differentials</url></p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      <alert>The final exam is cumulative.</alert> Every topic listed above is
+      fair game on it, together with the two remaining topics we cover after
+      Exam #3, whose leftover problems are collected in
+      <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-4.html">Review Problems #4</url>:
+    </p>
+
+    <p>
+      <ul>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-extreme-values.html">Extreme Values and Saddle Points</url></p>
+        </li>
+        <li>
+          <p><url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/sec-skel-fmv-lagrange.html">Lagrange Multipliers</url></p>
+        </li>
+      </ul>
+    </p>
+  </subsection>
+
   <subsection xml:id="letter-grades">
     <title>Letter Grades</title>
 

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="ai-policy">
+  <title>AI Policy</title>
+
+  <p>
+    You may <alert>not</alert> use artificial intelligence (AI) tools to
+    complete your assignments and assessments in this course.
+  </p>
+
+  <subsection xml:id="ai-tutor">
+    <title>The Course AI Tutor</title>
+
+    <p>
+      The one exception is the tutor built into the course materials. Each of
+      the ten assignment pages in the online skeletal notes carries a Socratic
+      AI tutor <mdash/> see, for example, the
+      <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-assignment-10.html">Assignment 10 page</url>. It is reachable from the
+      <q>Tutor</q> button in the lower-right corner of the page, and it knows
+      the problems on that page. It coaches you toward your own solution: it
+      asks you questions, points you to the worked examples in the notes, and,
+      when you show work that is wrong, tells you which step breaks and why.
+    </p>
+
+    <p>
+      <alert>The tutor will not give you answers.</alert> It will not complete
+      a solution or correct a wrong step for you. The one way to have an answer
+      confirmed is to state your conclusion together with your own
+      justification; a bare answer, right or wrong, earns nothing.
+    </p>
+
+    <p>
+      You get <alert>three hints per problem, permanently</alert>. The budget
+      never resets, and every reply from the tutor spends one. When your hints
+      for a problem run out, bring your work to office hours.
+    </p>
+
+    <p>
+      The review problem sets deliberately have no tutor. Those are practice
+      for the exams, where you are on your own.
+    </p>
+  </subsection>
+
+  <subsection xml:id="ai-tutor-key">
+    <title>Setting Up the Tutor</title>
+
+    <p>
+      Using the tutor requires a free Google AI Studio key, which takes about a
+      minute to create at
+      <url href="https://aistudio.google.com/apikey">Google AI Studio</url>.
+      Use a <alert>personal Google account, not your @scu.edu account</alert>
+      <mdash/> the University has this service disabled. Your key is stored only
+      in your own browser; the course site never sees it.
+    </p>
+  </subsection>
+
+  <subsection xml:id="ai-tutor-privacy">
+    <title>Privacy</title>
+
+    <p>
+      Everything you type into the tutor goes to Google under Google's terms,
+      not the University's, and on the free tier your conversations may be read
+      by people at Google. Keep the chat to mathematics:
+    </p>
+
+    <p>
+      <ul>
+        <li>
+          <p>
+            No personal information <mdash/> no name, student ID, email, or
+            phone number.
+          </p>
+        </li>
+        <li>
+          <p>Nothing about a classmate.</p>
+        </li>
+        <li>
+          <p>Nothing sensitive.</p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      The tutor is a study aid. It is not a counselor, and it is not the
+      instructor.
+    </p>
+  </subsection>
+</section>
