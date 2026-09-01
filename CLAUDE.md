@@ -30,11 +30,16 @@ Rules for adding a row:
    item's row (only that row; the rest keep their order). Row templates
    are inside that comment.
 2. **Date posted**: today's date, formatted like `Sep 25, 2026`.
-3. **Item**: a `<url>` link to the exact page of the notes site
-   (`https://mahmadi-ops.github.io/M13-Mehdi/<xml-id-of-section>.html` —
-   verify the filename against a build of that repo, or link to the site
-   root if unsure). Label it `Notes: <topic>`, `Assignment <n>`, or
-   `Solutions: Assignment <n>`.
+3. **Item**: a `<url>` link to the exact page, labelled meaningfully.
+   Completed notes come from the notes site
+   (`https://mahmadi-ops.github.io/M13-Mehdi/<xml-id>.html`), label
+   `Notes: <topic>`. Skeletal notes, assignments, review sets, and
+   solutions come from the skeletal site
+   (`https://mahmadi-ops.github.io/M13-Skeletal-Notes/<xml-id>.html`;
+   assignments are `worksheet-assignment-<n>.html`), labels
+   `Skeletal notes: <topic>`, `Assignment <n>`, `Review Problems #<n>`,
+   `Solutions: Assignment <n>`. Verify the filename against the repo's
+   xml:ids, or link to the site root if unsure.
 4. **Due date**: required for assignments (e.g. `Fri Oct 2, 11:59 PM` —
    assignments are due Fridays, but Wednesday in exam weeks 3, 6, 9; see
    `source/assignments.ptx`). For notes use `<mdash/>`; for solutions use
