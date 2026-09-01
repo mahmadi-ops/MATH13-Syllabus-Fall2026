@@ -5,48 +5,19 @@ PreTeXt article, published automatically on every push to `main`:
 - Website: https://mahmadi-ops.github.io/MATH13-Syllabus-Fall2026/
 - PDF: https://mahmadi-ops.github.io/MATH13-Syllabus-Fall2026/math13-syllabus-fall2026.pdf
 
-Do **not** reorganize the sections, rename files, or restructure the article.
-Routine work in this repo is limited to the one job below unless the
-instructor asks for something else.
+Do **not** reorganize the sections, rename files, or restructure the article
+unless the instructor asks.
 
-## The "Posted Notes and Assignments" table
+Course materials are posted from the two companion repos, driven by the
+instructor's Posting Desk panel: completed lecture notes from
+`mahmadi-ops/M13-Mehdi` (whose `CLAUDE.md` is the desk rulebook), and
+skeletal notes, assignments, review sets, and solutions from
+`mahmadi-ops/M13-Skeletal-Notes`. This syllabus no longer carries a
+posted-materials log — the former "Posted Notes and Assignments" section
+and its row-maintenance scripts/workflows were removed at the
+instructor's request (Sep 2026), so posting actions do not touch this
+repo. The one section that points students at the posted materials is
+"Textbook and Lecture Notes" in `source/materials.ptx`.
 
-`source/updates.ptx` holds the last section of the syllabus: a table that
-logs every piece of course material as it is posted. It is the companion of
-the course-notes repo `mahmadi-ops/M13-Mehdi` (published at
-https://mahmadi-ops.github.io/M13-Mehdi/), whose `CLAUDE.md` defines the
-posting workflow (`/post-notes`, `/post-assignment`, `/release-solutions`)
-and the click-to-post Posting Desk panel (see "The Posting Desk" in that
-`CLAUDE.md`). Whenever material is posted there, add a row **here**. For
-panel-initiated postings the instructor has authorized committing directly
-to `main`; everything else follows the session's normal branch rules.
-
-Rules for adding a row:
-
-1. Insert the new `<row>` directly below the `NEW ROWS GO DIRECTLY BELOW`
-   comment in `source/updates.ptx`, so the table stays newest-first. Never
-   delete or reorder existing rows, with one exception: when an item is
-   **unposted** via the notes repo's unposting workflows, delete that
-   item's row (only that row; the rest keep their order). Row templates
-   are inside that comment.
-2. **Date posted**: today's date, formatted like `Sep 25, 2026`.
-3. **Item**: a `<url>` link to the exact page, labelled meaningfully.
-   Completed notes come from the notes site
-   (`https://mahmadi-ops.github.io/M13-Mehdi/<xml-id>.html`), label
-   `Notes: <topic>`. Skeletal notes, assignments, review sets, and
-   solutions come from the skeletal site
-   (`https://mahmadi-ops.github.io/M13-Skeletal-Notes/<xml-id>.html`;
-   assignments are `worksheet-assignment-<n>.html`), labels
-   `Skeletal notes: <topic>`, `Assignment <n>`, `Review Problems #<n>`,
-   `Solutions: Assignment <n>`. Verify the filename against the repo's
-   xml:ids, or link to the site root if unsure.
-4. **Due date**: required for assignments (e.g. `Fri Oct 2, 11:59 PM` —
-   assignments are due Fridays, but Wednesday in exam weeks 3, 6, 9; see
-   `source/assignments.ptx`). For notes use `<mdash/>`; for solutions use
-   `was due <date>`.
-5. Keep the first row of the tabular marked `header="yes"` and keep every
-   `<url>` label meaningful (no "click here").
-6. Check well-formedness (`xmllint --noout source/updates.ptx`), then commit
-   with a message like `Log Assignment 3 in the posted-materials table` and
-   push to the branch designated for the session. Publishing happens when
-   the change reaches `main`.
+Validate any edit with `xmllint --noout source/<file>.ptx` before
+committing; publishing happens when the change reaches `main`.

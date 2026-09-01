@@ -23,7 +23,6 @@
     <xi:include href="./ai-policy.ptx" />
     <xi:include href="./faq.ptx" />
     <xi:include href="./university-policies.ptx" />
-    <xi:include href="./updates.ptx" />
   </article>
 
 </pretext>
