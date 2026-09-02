@@ -32,12 +32,26 @@
         </li>
         <li>
           <p>
-            <em>Where to find the problems:</em>
-            <!-- TODO: this was marked "TO BE ADDED" in the source syllabus.     -->
-            <!-- Fill in where the assignment problems are posted and when they  -->
-            <!-- become available, then delete this comment.                     -->
-            <alert>To be added</alert> <mdash/> where the assignment problems are
-            posted, and when they become available.
+            <em>Where to find the problems:</em> each assignment is its own
+            worksheet in the
+            <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/shorttitlelowercase.html">skeletal notes</url> <mdash/>
+            see, for example,
+            <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-assignment-1.html">Assignment 1</url>. An
+            assignment is posted once we have covered the topics it draws on,
+            so check the skeletal notes regularly. Each assignment page also
+            carries the AI tutor described in <xref ref="ai-tutor"/>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <em>Where and when to find the solutions:</em> the solutions to an
+            assignment are added to that same worksheet page in the skeletal
+            notes, and they go up
+            <alert>only after the assignment's due date has passed</alert>. The
+            review problem sets, such as
+            <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-1.html">Review Problems #1</url>,
+            are different: they are not collected, so their solutions are there
+            from the start.
           </p>
         </li>
         <li>
@@ -120,7 +134,9 @@
             question only the page or pages that contain your work for that
             question <mdash/> do not assign every page to every question, and do
             not leave any question unassigned. Work that is not assigned to the
-            corresponding question can be missed by the grader.
+            corresponding question can be missed by the grader. The
+            <url href="https://www.youtube.com/watch?v=nksyA0s-Geo">video above</url>
+            shows you how to assign pages, step by step.
           </p>
         </li>
         <li>

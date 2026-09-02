@@ -65,7 +65,10 @@
     <p>
       Please do not email me questions concerning homework or the material in
       class. Email is the worst medium to convey math, especially calculus, so
-      please come to my office hours to discuss such questions. Suppose that
+      please come to my office hours to discuss such questions. In the meantime,
+      if you are stuck on an assignment problem, the AI tutor on that
+      assignment's page (see <xref ref="ai-tutor"/>) is there to help you work
+      through it. Suppose that
       all of the office hours during a week conflict with your class schedule,
       and that you tried to book an appointment and we did not manage to find a
       time that suits both our schedules; then you can email me your questions
@@ -100,15 +103,47 @@
         </li>
         <li>
           <p>
-            Examples solved in class. Note that we solve different examples in
-            class than the ones in the textbook, so that you have more solved
-            problems with detailed solutions for studying outside the class. I
-            recommend that first you try to solve them without looking at the
+            Examples solved in class. We will not have time to solve every
+            example in the body of the notes, so please work through the
+            remaining ones on your own; their detailed solutions are posted with
+            the
+            <url href="https://mahmadi-ops.github.io/M13-Mehdi/shorttitlelowercase.html">completed notes</url>.
+            I recommend that first you try to solve them without looking at the
             solutions, then you can compare your work with the solutions.
           </p>
         </li>
-        <li><p>Examples solved in the body of the (optional) textbook.</p></li>
+        <li>
+          <p>
+            Some examples in the
+            <url href="https://mahmadi-ops.github.io/M13-Mehdi/shorttitlelowercase.html">completed notes</url>
+            are there for the interested reader and are outside the scope of
+            this course <mdash/> physical applications,
+            for instance. We will discuss some of them in class; the rest are
+            yours to work through on your own, and you are always welcome to
+            bring me your questions about them.
+          </p>
+        </li>
+        <li>
+          <p>
+            Examples solved in the body of the (optional) textbook, listed in
+            <xref ref="materials"/>.
+          </p>
+        </li>
         <li><p>The written homework problems. We will have 10 written assignments.</p></li>
+        <li>
+          <p>
+            The four sets of review problems in the skeletal notes:
+            <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-1.html">Review Problems #1</url>,
+            <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-2.html">Review Problems #2</url>,
+            <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-3.html">Review Problems #3</url>,
+            and
+            <url href="https://mahmadi-ops.github.io/M13-Skeletal-Notes/worksheet-review-problems-4.html">Review Problems #4</url>.
+            Each set collects the problems on its topics that were not assigned,
+            with full solutions, and is the natural preparation for the exam
+            covering those topics (see <xref ref="exam-topics"/>). They are not
+            collected and not graded.
+          </p>
+        </li>
         <li><p>For each topic, I have also suggested several optional problems to solve.</p></li>
         <li>
           <p>
