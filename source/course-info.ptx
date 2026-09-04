@@ -6,20 +6,25 @@
     <figure xml:id="fig-topics">
       <caption>A tour of MATH 13: space curves, surfaces, and the tangent
       planes and gradients we will use to study them.</caption>
-      <image source="calculus-adventure.png" width="92%">
-        <shortdescription>A hiker crossing floating islands built from the curves and surfaces studied in MATH 13</shortdescription>
+      <image source="IMG_9751.jpeg" width="92%">
+        <shortdescription>A guide welcoming you to floating islands built from the curves and surfaces studied in MATH 13</shortdescription>
         <description>
           <p>
-            A colorful cartoon landscape of floating islands, each one built
-            from something we study this quarter. On the left island, a looping
-            space curve winds around a set of three-dimensional coordinate
-            axes, and a rainbow-colored saddle surface rises out of the grass.
-            A hiker with a backpack strides along the path between the islands.
-            On the right island, a rounded hill is capped by a flat tangent
-            plane, with a gold arrow rising from the point of tangency and blue
-            arrows fanning out across the plane. Below the hill, a line of
-            beads descends the slope toward a pool of ripples, suggesting a
-            path downhill to a minimum. Every one of these ideas is listed in
+            A colorful nighttime cartoon of a floating island landscape, each
+            part built from something we study this quarter. At a stone
+            gateway on the lower left, a smiling guide with a backpack and a
+            walking stick extends an arm, welcoming you in. Overhead, glowing
+            dotted curves arc across the sky like points tracing out paths.
+            On a stone platform at the center, a purple space curve loops
+            around a set of three-dimensional coordinate axes, and behind it
+            stand a rainbow-colored cone, a gridded dome, and a saddle
+            surface. A golden path crosses stepping stones over a stream and
+            winds upward past a broad rainbow-colored hill ringed by contour
+            lines and capped by a flat tangent plane, where a gold arrow
+            rises from the point of tangency and blue arrows fan out across
+            the plane. The path spirals on to a glowing summit at the very
+            top of the landscape, while waterfalls spill off the island edges
+            into the night sky. Every one of these ideas is listed in
             <xref ref="specific-goals" text="title"/>.
           </p>
         </description>
