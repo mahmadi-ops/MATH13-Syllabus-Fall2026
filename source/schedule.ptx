@@ -77,7 +77,43 @@
       <row>
         <cell>Finals</cell>
         <cell>Dec 7 <ndash/> 11</cell>
-        <cell><alert>Final Exam</alert> <mdash/> scheduled by the Registrar's Office</cell>
+        <cell><alert>Final Exam</alert> <mdash/> scheduled by the Registrar's Office; see <xref ref="table-final-exam"/></cell>
+      </row>
+    </tabular>
+  </table>
+
+  <p>
+    <alert>The date and time of the final exam are set by the Office of the
+    Registrar, not by me.</alert> The University assigns every final exam
+    slot from the class meeting time, and I have no say in it and cannot
+    change it. <xref ref="table-final-exam"/> simply copies the entries for
+    our two sections from the Registrar's
+    <url href="https://www.scu.edu/registrar/undergraduate-final-exams-schedule/">Undergraduate Final Exams Schedule</url>.
+    Please check the date, time, and room in your Workday course schedule:
+    the Registrar's schedule takes precedence over this copy, and rooms can
+    change.
+  </p>
+
+  <table xml:id="table-final-exam">
+    <title>Final exam date and time, as scheduled by the Office of the Registrar</title>
+    <tabular halign="left" top="minor" bottom="minor">
+      <col width="22%"/>
+      <col width="28%"/>
+      <col width="50%"/>
+      <row header="yes" bottom="minor">
+        <cell>Section</cell>
+        <cell>Class meets</cell>
+        <cell>Final exam</cell>
+      </row>
+      <row>
+        <cell>MATH 13-3</cell>
+        <cell>M W F, 9:15 AM</cell>
+        <cell>Wednesday, December 9, 9:10 AM <ndash/> 12:10 PM</cell>
+      </row>
+      <row>
+        <cell>MATH 13-4</cell>
+        <cell>M W F, 10:30 AM</cell>
+        <cell>Friday, December 11, 9:10 AM <ndash/> 12:10 PM</cell>
       </row>
     </tabular>
   </table>
