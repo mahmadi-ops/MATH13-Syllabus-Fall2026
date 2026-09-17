@@ -2,19 +2,31 @@
 <section xml:id="ai-policy">
   <title>AI Policy</title>
 
-  <p>
-    You may <alert>not</alert> use artificial intelligence (AI) tools to
-    complete your assignments and assessments in this course, with the single
-    exception of the course AI tutor described in <xref ref="ai-tutor"/>.
-  </p>
+  <subsection xml:id="ai-not-allowed">
+    <title>What Not to Do</title>
 
-  <p>
-    Use of AI-enabled glasses or other AI-enabled digital wearables is
-    <alert>not allowed</alert> in our class. Students will be asked to remove
-    them prior to exams and class sessions. Students with prescription smart
-    glasses must be prepared to switch to standard prescription glasses or
-    contacts while in class.
-  </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            You may <alert>not</alert> use artificial intelligence (AI) tools
+            to complete your assignments and assessments in this course, with
+            the single exception of the course AI tutor described in
+            <xref ref="ai-tutor"/>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use of AI-enabled glasses or other AI-enabled digital wearables is
+            <alert>not allowed</alert> in our class. Students will be asked to
+            remove them prior to exams and class sessions. Students with
+            prescription smart glasses must be prepared to switch to standard
+            prescription glasses or contacts while in class.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </subsection>
 
   <subsection xml:id="ai-tutor">
     <title>The Course AI Tutor</title>
