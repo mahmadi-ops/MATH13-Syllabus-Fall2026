@@ -1,2 +1,4 @@
 # This file was automatically generated with PreTeXt 2.49.1.
-pretext == 2.49.1
+# Pinned to 2.53.0 (Sep 2026) to match the pretextbook/pretext:latest image;
+# 2.49.1 fails under its newer libxml2 with "Entity 'entities' not defined".
+pretext == 2.53.0
