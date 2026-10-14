@@ -54,6 +54,11 @@
     </p>
 
     <p>
+      Your lowest midterm exam score is dropped; see
+      <xref ref="drop-lowest-midterm" text="title"/>.
+    </p>
+
+    <p>
       <alert>Calculators of any kind are not permitted on the exams.</alert>
     </p>
   </introduction>
@@ -170,6 +175,70 @@
         </li>
       </ul>
     </p>
+  </subsection>
+
+  <subsection xml:id="drop-lowest-midterm">
+    <title>Dropping the Lowest Midterm Grade</title>
+
+    <p>
+      Your lowest midterm exam score is dropped. Your best two midterms, out
+      of <m>40</m> points, are scaled to the full <m>60</m> midterm points, so
+      the midterms still count for <m>60\%</m> of your course grade:
+      <md>
+        \text{Midterm points} = \frac{\text{sum of your best two midterms}}{40}\times 60.
+      </md>
+      The final exam (<m>30</m> points) and the assignments (<m>10</m> points)
+      are unchanged, and your total out of <m>100</m> becomes a letter grade
+      with the percentage ranges in <xref ref="table-letter-grades"/>.
+    </p>
+
+    <table xml:id="table-grade-drop-example">
+      <title>An example: from a C+ to a B+</title>
+      <tabular halign="left" top="minor" bottom="minor">
+        <col/>
+        <col halign="right"/>
+        <col halign="right"/>
+        <col halign="right"/>
+        <row header="yes" bottom="minor">
+          <cell>Component</cell>
+          <cell>Score</cell>
+          <cell>Without the drop</cell>
+          <cell>With the drop</cell>
+        </row>
+        <row><cell>Exam #1</cell><cell><m>8/20</m></cell><cell><m>8</m></cell><cell>dropped</cell></row>
+        <row><cell>Exam #2</cell><cell><m>18/20</m></cell><cell><m>18</m></cell><cell><m>18</m></cell></row>
+        <row><cell>Exam #3</cell><cell><m>18/20</m></cell><cell><m>18</m></cell><cell><m>18</m></cell></row>
+        <row>
+          <cell>Midterm points (out of 60)</cell>
+          <cell/>
+          <cell><m>8 + 18 + 18 = 44</m></cell>
+          <cell><m>\frac{18 + 18}{40}\times 60 = 54</m></cell>
+        </row>
+        <row><cell>Final Exam</cell><cell><m>25/30</m></cell><cell><m>25</m></cell><cell><m>25</m></cell></row>
+        <row bottom="minor"><cell>Assignments</cell><cell><m>9/10</m></cell><cell><m>9</m></cell><cell><m>9</m></cell></row>
+        <row><cell>Total (out of 100)</cell><cell/><cell><m>78</m> (C+)</cell><cell><m>88</m> (B+)</cell></row>
+      </tabular>
+    </table>
+
+    <p>
+      The best two midterms come to <m>36</m> out of <m>40</m>, which is
+      <m>90\%</m>, and that <m>90\%</m> counts for all <m>60</m> midterm
+      points. The weak first exam simply stops counting.
+    </p>
+
+    <figure xml:id="figure-grade-calculator">
+      <caption>Enter your scores to see your course grade with the lowest
+      midterm dropped. Leave a box empty for an exam you have not taken yet:
+      empty boxes count as <m>0</m>, so the total shown is the lowest the
+      scores you entered can give, and your letter grade appears once all
+      five scores are entered. While the final is still to come, the
+      calculator lists the final exam score each letter grade needs. (In the
+      PDF, scan the code to open the calculator on the course website.)</caption>
+      <interactive xml:id="interactive-grade-calculator"
+                   iframe="grade-calculator.html"
+                   preview="grade-calculator-preview.png"
+                   width="100%" aspect="15:16"/>
+    </figure>
   </subsection>
 
   <subsection xml:id="letter-grades">
